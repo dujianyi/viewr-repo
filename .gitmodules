@@ -1,0 +1,3 @@
+[submodule "viewr-repo.wiki"]
+	path = viewr-repo.wiki
+	url = https://github.com/dujianyi/viewr-repo.wiki
