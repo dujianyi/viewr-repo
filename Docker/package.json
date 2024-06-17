@@ -2,7 +2,12 @@
     "name": "viewr-repo",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "@cloudnative/health-connect": "^2.0.0",
+        "express": "4.17.1",
+        "node-red": "^1.0.0",
+        "node-red-dashboard" : "^2.16.3"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows.json",
